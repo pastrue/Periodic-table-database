@@ -124,7 +124,6 @@ INSERT INTO public.elements VALUES (7, 'N', 'Nitrogen');
 INSERT INTO public.elements VALUES (8, 'O', 'Oxygen');
 INSERT INTO public.elements VALUES (3, 'Li', 'Lithium');
 INSERT INTO public.elements VALUES (2, 'He', 'Helium');
-INSERT INTO public.elements VALUES (1000, 'MT', 'moTanium');
 INSERT INTO public.elements VALUES (9, 'F', 'Fluorine');
 INSERT INTO public.elements VALUES (10, 'Ne', 'Neon');
 
